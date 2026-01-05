@@ -96,8 +96,8 @@ The data model enforces constraints to ensure consistency and prevent duplicatio
 ### Setup Procedure
 
 ```bash
-git clone https://github.com/QusaiSak/WebExtract.git
-cd WebExtract/web-extract
+git clone https://github.com/anuanced/WebExtract_Online_WebScraping_Website.git
+cd WebExtract_Online_WebScraping_Website/web-extract
 npm install
 cp .env.example .env
 npx prisma generate
@@ -128,5 +128,3 @@ Potential enhancements include:
 ## 12. Conclusion
 
 WebExtract demonstrates a workflow-based approach to automated web data extraction, combining visual design, browser automation, and AI-assisted task generation. The project highlights the practical challenges and opportunities involved in building flexible automation systems and provides a foundation for further research and development in intelligent data extraction platforms.
-
-Just tell me where you’ll submit it.
