@@ -128,3 +128,11 @@ Potential enhancements include:
 ## 12. Conclusion
 
 WebExtract demonstrates a workflow-based approach to automated web data extraction, combining visual design, browser automation, and AI-assisted task generation. The project highlights the practical challenges and opportunities involved in building flexible automation systems and provides a foundation for further research and development in intelligent data extraction platforms.
+
+## 13. Author
+
+**Anusha Thosar**
+Undergraduate Student
+Field of Study: Electronics and Computer Engineering
+
+This project was developed as part of academic coursework and independent study, with a focus on workflow automation, web data extraction, and applied software engineering principles.
