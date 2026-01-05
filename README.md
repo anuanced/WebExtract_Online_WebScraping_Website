@@ -97,7 +97,7 @@ The data model enforces constraints to ensure consistency and prevent duplicatio
 
 ```bash
 git clone https://github.com/anuanced/WebExtract_Online_WebScraping_Website.git
-cd WebExtract_Online_WebScraping_Website/web-extract
+cd WebExtract_Online_WebScraping_Website/webextract
 npm install
 cp .env.example .env
 npx prisma generate
