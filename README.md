@@ -132,7 +132,6 @@ WebExtract demonstrates a workflow-based approach to automated web data extracti
 ## 13. Author
 
 **Anusha Thosar**
-Undergraduate Student
-Field of Study: Electronics and Computer Engineering
-
-This project was developed as part of academic coursework and independent study, with a focus on workflow automation, web data extraction, and applied software engineering principles.
+* Undergraduate Student
+* Field of Study: Electronics and Computer Engineering
+* This project was developed as part of academic coursework and independent study, with a focus on workflow automation, web data extraction, and applied software engineering principles.
